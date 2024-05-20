@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá, me chamo Luiz Andrade
+Estou estudando em maioria pela Internet, no momento estou aprendendo Logica de Programação pelo Curso em Video, pretendo trabalhar futuramente como programador back-end e aceito qualquer ajuda ou dicas de como começar e melhorar cada vez mais.
 
 <!--
 **Akiraself/Akiraself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
