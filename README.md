@@ -10,7 +10,7 @@ Aceito qualquer ajuda ou dicas de como começar e melhorar cada vez mais.
 ## Entre em contato comigo:
 luizclaudioamantovani@gmail.com
 
-![](https://media1.tenor.com/m/IBUBUm67w98AAAAd/the-last-of-us-part2-the-last-of-us-part%C4%B1.gif)
+![](https://media1.tenor.com/m/G1Fq4vYRSCcAAAAC/ellie-the-last-of-us.gif)
 
 <!--
 **Akiraself/Akiraself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
