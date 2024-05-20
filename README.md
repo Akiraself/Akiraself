@@ -1,5 +1,16 @@
 ## Olá, me chamo Luiz Andrade
-Estou estudando em maioria pela Internet, no momento estou aprendendo Logica de Programação pelo Curso em Video, pretendo trabalhar futuramente como programador back-end e aceito qualquer ajuda ou dicas de como começar e melhorar cada vez mais.
+Estou estudando em maioria pela Internet; 
+
+No momento estou aprendendo Logica de Programação pelo Curso em Video;
+
+Pretendo trabalhar futuramente como programador back-end;
+
+Aceito qualquer ajuda ou dicas de como começar e melhorar cada vez mais.
+
+## Entre em contato comigo:
+luizclaudioamantovani@gmail.com
+
+![](https://media1.tenor.com/m/IBUBUm67w98AAAAd/the-last-of-us-part2-the-last-of-us-part%C4%B1.gif)
 
 <!--
 **Akiraself/Akiraself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
